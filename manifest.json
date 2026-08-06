@@ -1,0 +1,12 @@
+{
+  "name": "Prisma Marketing Platform",
+  "short_name": "Prisma Marketing",
+  "start_url": "./prisma_marketing_platform.html",
+  "display": "standalone",
+  "background_color": "#0f2c36",
+  "theme_color": "#0f2c36",
+  "description": "Plataforma de marketing e produção de conteúdo da Prisma Consultoria.",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
